@@ -1,1 +1,2 @@
 # Code Refactor Starter Code
+This project was intended to test our ability to consolidate code within CSS while maintaining the ability to perform the same tasks at the beginning. We were to ensure that all links worked correctly. We were also needing to use both Class and ID's in HTML and CSS. 
